@@ -71,7 +71,6 @@ nav {
 }
 
 nav > a {
-    position: ;
     color: var(--cor1);
     padding: 10px;
     border-radius: 5px;
